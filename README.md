@@ -8,3 +8,6 @@ This is a repo I am using to document any small testing of how specific things w
 
 2. You can set up the entire document within a .php document and write php
 code directly within the html
+
+3. When creating an object in PHP you must first define the class and then use
+the constructor to create the object 
