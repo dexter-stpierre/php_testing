@@ -10,4 +10,7 @@ This is a repo I am using to document any small testing of how specific things w
 code directly within the html
 
 3. When creating an object in PHP you must first define the class and then use
-the constructor to create the object 
+the constructor to create the object
+
+4. Use a Post increment or decrement when you want to use the the variable as it
+is and Pre increment or decrement when you want the variable to be changed first
